@@ -35,13 +35,3 @@ c. Expense Sharing: Enable users to share expense data with family members or de
 d. Integration with Financial Planning Tools: Integrate with popular financial planning apps and services to provide users with a comprehensive financial management ecosystem.
 
 **[ExpenseTracker.money](https://expensetracker.money)** aims to revolutionize the way users track and manage their expenses, offering a seamless and intelligent solution for achieving financial wellness and stability.
-
-
-
-
-
-
-
-
-
--->
